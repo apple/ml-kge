@@ -1,0 +1,130 @@
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/ar.json...
+- Loading predictions from data/names/m-nta/with_gpt-3.5/ar.m-nta.json...
+  # of entities in the references: 999
+  # of entities in the predictions: 769
+---------------------------
+  Coverage - P  = 68.3
+  Coverage - R  = 31.1
+  Coverage - F1 = 42.7
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/de.json...
+- Loading predictions from data/names/m-nta/with_gpt-3.5/de.m-nta.json...
+  # of entities in the references: 990
+  # of entities in the predictions: 858
+---------------------------
+  Coverage - P  = 72.7
+  Coverage - R  = 47.6
+  Coverage - F1 = 57.5
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/en.json...
+- Loading predictions from data/names/m-nta/with_gpt-3.5/en.m-nta.json...
+  # of entities in the references: 1,000
+  # of entities in the predictions: 527
+---------------------------
+  Coverage - P  = 89.7
+  Coverage - R  = 26.8
+  Coverage - F1 = 41.3
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/es.json...
+- Loading predictions from data/names/m-nta/with_gpt-3.5/es.m-nta.json...
+  # of entities in the references: 999
+  # of entities in the predictions: 889
+---------------------------
+  Coverage - P  = 77.2
+  Coverage - R  = 43.4
+  Coverage - F1 = 55.6
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/fr.json...
+- Loading predictions from data/names/m-nta/with_gpt-3.5/fr.m-nta.json...
+  # of entities in the references: 997
+  # of entities in the predictions: 878
+---------------------------
+  Coverage - P  = 70.7
+  Coverage - R  = 48.2
+  Coverage - F1 = 57.3
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/it.json...
+- Loading predictions from data/names/m-nta/with_gpt-3.5/it.m-nta.json...
+  # of entities in the references: 995
+  # of entities in the predictions: 883
+---------------------------
+  Coverage - P  = 72.9
+  Coverage - R  = 53.5
+  Coverage - F1 = 61.7
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/ja.json...
+- Loading predictions from data/names/m-nta/with_gpt-3.5/ja.m-nta.json...
+  # of entities in the references: 997
+  # of entities in the predictions: 686
+---------------------------
+  Coverage - P  = 50.5
+  Coverage - R  = 27.0
+  Coverage - F1 = 35.2
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/ko.json...
+- Loading predictions from data/names/m-nta/with_gpt-3.5/ko.m-nta.json...
+  # of entities in the references: 993
+  # of entities in the predictions: 808
+---------------------------
+  Coverage - P  = 68.7
+  Coverage - R  = 40.0
+  Coverage - F1 = 50.6
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/ru.json...
+- Loading predictions from data/names/m-nta/with_gpt-3.5/ru.m-nta.json...
+  # of entities in the references: 999
+  # of entities in the predictions: 811
+---------------------------
+  Coverage - P  = 62.3
+  Coverage - R  = 34.9
+  Coverage - F1 = 44.8
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/zh.json...
+- Loading predictions from data/names/m-nta/with_gpt-3.5/zh.m-nta.json...
+  # of entities in the references: 974
+  # of entities in the predictions: 749
+---------------------------
+  Coverage - P  = 51.8
+  Coverage - R  = 27.7
+  Coverage - F1 = 36.1
+===========================
+

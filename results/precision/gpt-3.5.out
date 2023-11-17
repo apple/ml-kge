@@ -1,0 +1,180 @@
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/ar.json...
+- Loading predictions from data/names/gpt/ar.gpt-3.5.json...
+  # of entities: 1,000
+  # of entities with correct names: 1,000
+  # of entities with incorrect names: 1,000
+  # of entities in the predictions: 853
+---------------------------
+  Total incorrect names: 320
+  Identified incorrect names: 299
+  Total correct names: 3,893
+  Correct names classified as incorrect: 3,049
+---------------------------
+  Precision - P  = 27.1
+  Precision - R  = 93.4
+  Precision - F1 = 42.1
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/de.json...
+- Loading predictions from data/names/gpt/de.gpt-3.5.json...
+  # of entities: 1,000
+  # of entities with correct names: 999
+  # of entities with incorrect names: 999
+  # of entities in the predictions: 932
+---------------------------
+  Total incorrect names: 491
+  Identified incorrect names: 451
+  Total correct names: 3,007
+  Correct names classified as incorrect: 1,647
+---------------------------
+  Precision - P  = 51.8
+  Precision - R  = 91.9
+  Precision - F1 = 66.2
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/es.json...
+- Loading predictions from data/names/gpt/es.gpt-3.5.json...
+  # of entities: 1,000
+  # of entities with correct names: 1,000
+  # of entities with incorrect names: 1,000
+  # of entities in the predictions: 938
+---------------------------
+  Total incorrect names: 571
+  Identified incorrect names: 512
+  Total correct names: 3,749
+  Correct names classified as incorrect: 2,155
+---------------------------
+  Precision - P  = 48.8
+  Precision - R  = 89.7
+  Precision - F1 = 63.2
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/fr.json...
+- Loading predictions from data/names/gpt/fr.gpt-3.5.json...
+  # of entities: 1,000
+  # of entities with correct names: 1,000
+  # of entities with incorrect names: 1,000
+  # of entities in the predictions: 936
+---------------------------
+  Total incorrect names: 533
+  Identified incorrect names: 439
+  Total correct names: 3,015
+  Correct names classified as incorrect: 1,631
+---------------------------
+  Precision - P  = 51.4
+  Precision - R  = 82.4
+  Precision - F1 = 63.3
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/it.json...
+- Loading predictions from data/names/gpt/it.gpt-3.5.json...
+  # of entities: 999
+  # of entities with correct names: 999
+  # of entities with incorrect names: 999
+  # of entities in the predictions: 937
+---------------------------
+  Total incorrect names: 267
+  Identified incorrect names: 227
+  Total correct names: 2,889
+  Correct names classified as incorrect: 1,460
+---------------------------
+  Precision - P  = 52.5
+  Precision - R  = 85.0
+  Precision - F1 = 64.9
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/ja.json...
+- Loading predictions from data/names/gpt/ja.gpt-3.5.json...
+  # of entities: 1,000
+  # of entities with correct names: 1,000
+  # of entities with incorrect names: 1,000
+  # of entities in the predictions: 814
+---------------------------
+  Total incorrect names: 507
+  Identified incorrect names: 488
+  Total correct names: 2,492
+  Correct names classified as incorrect: 1,843
+---------------------------
+  Precision - P  = 37.9
+  Precision - R  = 96.3
+  Precision - F1 = 54.4
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/ko.json...
+- Loading predictions from data/names/gpt/ko.gpt-3.5.json...
+  # of entities: 1,000
+  # of entities with correct names: 1,000
+  # of entities with incorrect names: 1,000
+  # of entities in the predictions: 851
+---------------------------
+  Total incorrect names: 330
+  Identified incorrect names: 294
+  Total correct names: 3,544
+  Correct names classified as incorrect: 2,591
+---------------------------
+  Precision - P  = 32.2
+  Precision - R  = 89.1
+  Precision - F1 = 47.3
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/ru.json...
+- Loading predictions from data/names/gpt/ru.gpt-3.5.json...
+  # of entities: 1,000
+  # of entities with correct names: 1,000
+  # of entities with incorrect names: 1,000
+  # of entities in the predictions: 903
+---------------------------
+  Total incorrect names: 614
+  Identified incorrect names: 554
+  Total correct names: 3,287
+  Correct names classified as incorrect: 2,246
+---------------------------
+  Precision - P  = 40.9
+  Precision - R  = 90.2
+  Precision - F1 = 56.3
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/zh.json...
+- Loading predictions from data/names/gpt/zh.gpt-3.5.json...
+  # of entities: 1,000
+  # of entities with correct names: 1,000
+  # of entities with incorrect names: 1,000
+  # of entities in the predictions: 883
+---------------------------
+  Total incorrect names: 811
+  Identified incorrect names: 784
+  Total correct names: 3,277
+  Correct names classified as incorrect: 2,461
+---------------------------
+  Precision - P  = 39.1
+  Precision - R  = 96.7
+  Precision - F1 = 55.7
+===========================
+

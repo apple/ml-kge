@@ -1,0 +1,117 @@
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/ar.json...
+- Loading predictions from data/names/gpt/ar.gpt-3.5.json...
+  # of entities in the references: 999
+  # of entities in the predictions: 853
+---------------------------
+  Coverage - P  = 37.8
+  Coverage - R  = 21.5
+  Coverage - F1 = 27.4
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/de.json...
+- Loading predictions from data/names/gpt/de.gpt-3.5.json...
+  # of entities in the references: 990
+  # of entities in the predictions: 932
+---------------------------
+  Coverage - P  = 58.0
+  Coverage - R  = 44.8
+  Coverage - F1 = 50.5
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/es.json...
+- Loading predictions from data/names/gpt/es.gpt-3.5.json...
+  # of entities in the references: 999
+  # of entities in the predictions: 938
+---------------------------
+  Coverage - P  = 64.2
+  Coverage - R  = 41.8
+  Coverage - F1 = 50.6
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/fr.json...
+- Loading predictions from data/names/gpt/fr.gpt-3.5.json...
+  # of entities in the references: 997
+  # of entities in the predictions: 936
+---------------------------
+  Coverage - P  = 56.9
+  Coverage - R  = 45.3
+  Coverage - F1 = 50.5
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/it.json...
+- Loading predictions from data/names/gpt/it.gpt-3.5.json...
+  # of entities in the references: 995
+  # of entities in the predictions: 937
+---------------------------
+  Coverage - P  = 59.2
+  Coverage - R  = 49.1
+  Coverage - F1 = 53.7
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/ja.json...
+- Loading predictions from data/names/gpt/ja.gpt-3.5.json...
+  # of entities in the references: 997
+  # of entities in the predictions: 814
+---------------------------
+  Coverage - P  = 33.4
+  Coverage - R  = 25.5
+  Coverage - F1 = 28.9
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/ko.json...
+- Loading predictions from data/names/gpt/ko.gpt-3.5.json...
+  # of entities in the references: 993
+  # of entities in the predictions: 851
+---------------------------
+  Coverage - P  = 39.3
+  Coverage - R  = 26.9
+  Coverage - F1 = 31.9
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/ru.json...
+- Loading predictions from data/names/gpt/ru.gpt-3.5.json...
+  # of entities in the references: 999
+  # of entities in the predictions: 903
+---------------------------
+  Coverage - P  = 43.1
+  Coverage - R  = 32.2
+  Coverage - F1 = 36.8
+===========================
+
+===========================
+Starting evaluation...
+---------------------------
+- Loading references from data/names/gold/zh.json...
+- Loading predictions from data/names/gpt/zh.gpt-3.5.json...
+  # of entities in the references: 974
+  # of entities in the predictions: 883
+---------------------------
+  Coverage - P  = 35.9
+  Coverage - R  = 24.7
+  Coverage - F1 = 29.2
+===========================
+
