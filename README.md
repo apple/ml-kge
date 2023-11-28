@@ -3,7 +3,7 @@
 [**Task Description**](#task-description) |
 [**WikiKGE-10**](#wikikge-10) |
 [**Evaluation**](#evaluation) |
-[**Paper**]() |
+[**Paper**](https://arxiv.org/abs/2311.15781) |
 [**Citation**](#citation) |
 [**License**](#license)
 
@@ -12,7 +12,7 @@ However, when it comes to non-English languages, both quantity and quality of te
 To address this issue, we introduce the task of automatic **Multilingual Knowledge Graph Enhancement (MKGE)** and perform a thorough investigation on bridging the gap in quantity and quality of textual information between English and non-English languages.
 As part of our effort toward building better multilingual knowledge graphs, we also introduce **WikiKGE-10**, the first human-curated benchmark to evaluate MKGE approaches in 10 languages.
  
-Please refer to our EMNLP 2023 paper for more details, [Increasing Coverage and Precision of Textual Information in Multilingual Knowledge Graphs]().
+Please refer to our EMNLP 2023 paper for more details, [Increasing Coverage and Precision of Textual Information in Multilingual Knowledge Graphs](https://arxiv.org/abs/2311.15781).
 
 
 ## Task Description
